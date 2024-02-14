@@ -69,7 +69,7 @@ where `lambda > 0` is the [shape parameter][shape] and `k > 0` is the [scale par
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-median@v0.2.0-esm/index.mjs';
 ```
 
 #### median( k, lambda )
@@ -145,7 +145,7 @@ v = median( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-median@esm/index.mjs';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-median@v0.2.0-esm/index.mjs';
 
 var lambda;
 var k;
