@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`b05f89e`](https://github.com/stdlib-js/stdlib/commit/b05f89e216ef3c44391349a1402f51ac39855a6e) - **feat:** add C implementation of `stats/base/dists/weibull/median` _(by Vinit Pandit, Philipp Burckhardt)_
 
 </details>
